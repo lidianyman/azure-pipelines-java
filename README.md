@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/ci-support-dev-team/azure-pipelines/_apis/build/status/lidianyman.azure-pipelines-java?branchName=master)](https://dev.azure.com/ci-support-dev-team/azure-pipelines/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
